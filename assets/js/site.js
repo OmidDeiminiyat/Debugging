@@ -11,3 +11,7 @@ const myBooks = ["The Catcher in the Rye",
     "The Da Vinci Code",
     "The Hunger Games"]
 
+console.log('Jeg er Omid');
+console.error('Jeg er Omid');
+console.warn(myInfo);
+console.table(myBooks);
